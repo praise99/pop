@@ -1,0 +1,97 @@
+body {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-style: calibri;
+   
+   background-color:#ADD8E6;
+}
+
+
+
+h1 {
+    color: blue;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+input {
+    width: 390px;
+    height: 50px;
+    background-color: rgb(237, 234, 250);
+
+}
+#card {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+   
+
+}
+
+div {
+    background-color: white;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+#header {
+    text-align: center;
+    
+}
+
+h2 {
+    margin: 0;
+    color:#0013de;
+    font-size: 28px;
+}
+
+span{
+    color: #A9A9A9;
+    font-size: 17px;
+}
+
+select{
+    width: 390px;
+    height: 50px;
+    background-color:rgb(237, 234, 250);
+    
+    
+}
+
+button {
+    width: 390px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+option {
+    overflow: scroll;
+}
+
+pre{
+    font-size: 35px;
+    color: white;
+}
+h3{
+    color: white;
+    margin: 110px;
+    font-size: 14px;
+    margin-top: 40px;
+   
+}
+
+img {
+  align-content: center;
+}
